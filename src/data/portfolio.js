@@ -15,7 +15,7 @@ export const personal = {
   githubUsername: 'Harshal3457',
   linkedin: 'https://www.linkedin.com/in/harshal-chaudhari-608a21224',
   liveProject: 'https://successscienceacademy.com/',
-  resumeUrl: null, // Set to actual resume URL when available
+  resumeUrl: '/Harshal_Chaudhari_Python_Fullstack_Resume.pdf',
   bio: 'I build practical web applications with React.js, Python, FastAPI, REST APIs, and SQL.',
   summary:
     'Python Full Stack Developer with hands-on experience building web applications using React.js, Python, FastAPI, REST APIs, MySQL, and PostgreSQL. Strong understanding of software development fundamentals, database operations, API development, authentication, role-based access control, data validation, debugging, and SDLC practices.',
